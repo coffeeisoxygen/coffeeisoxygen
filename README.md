@@ -2,3 +2,4 @@
 <h3 align="center">A Person who just courious How things work</h3>
 
 - 🌱 I’m currently learning **everything**
+- :school: Im Learning at nusaputra univresity
