@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21233
-Fork on GitHub
-6634
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Hasan Maki</h1>
 <h3 align="center">A Person who just courious How things work</h3>
 
